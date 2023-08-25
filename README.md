@@ -1,21 +1,20 @@
-# TÍTULO DO PROJETO
+# UI Clima
 
-`CURSO`
+`Análise e Desenvolvimento de Sistenas`
 
-`DISCIPLINA`
+`Projeto`
 
-`SEMESTRE`
+`3° Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel Alisson dos Santos Oliveira
+* Íris Gabriela Queiroz Gonçalves
+* Luna Alcântara Reis Silva
 
-## Orientador
+## Udo Fritzke Jr.
 
 * Nome completo do professor 1
 
