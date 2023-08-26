@@ -16,21 +16,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Desenvolver um aplicativo de previsão do tempo confiável e de fácil utilização para fornecer informações meteorológicas precisas aos usuários.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos temos:
+- Interface de Usuário Intuitiva: Criar uma interface de usuário (UI) amigável e intuitiva para o aplicativo, tornando-o acessível a um público amplo. Isso inclui o design de recursos de interação que facilitem a compreensão das informações meteorológicas.
+- Personalização e Recursos Extras: Desenvolver recursos adicionais, como alertas meteorológicos personalizáveis, previsões por localização e informações sobre qualidade do ar, para melhor atender às necessidades dos usuários.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A previsão do tempo é relevante para praticamente todas as pessoas, em qualquer lugar do mundo. Ela afeta as decisões diárias das pessoas, desde o planejamento de atividades ao ar livre até a escolha de roupas adequadas. Portanto, a motivação fundamental é criar uma ferramenta útil e acessível para um público amplo.
 
 ## Público-Alvo
 
