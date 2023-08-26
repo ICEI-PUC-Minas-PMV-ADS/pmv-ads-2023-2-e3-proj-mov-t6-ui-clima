@@ -31,7 +31,7 @@ A previsão do tempo é relevante para praticamente todas as pessoas, em qualque
 
 ## Público-Alvo
 
-O aplicativo UI Clima é focado nos indivíduos de diferentes faias etárias que possuem o interesse em saber a previsão do tempo de diferentes lugares no mundo e também naqueles que buscam diversidade cultural, como turistas, estudantes de línguas, profissionais da mídia (para retratar melhor a linguística mineira em publicidades, novelas, etc) e, claro, para os próprios moradores de Minas Gerais.
+O aplicativo UI Clima tem como público-alvo todos os tipos de pessoas e idades que tenham o interesse em se informarem sobre as condições climáticas de diferentes lugares do mundo e também aqueles que buscam diversidade cultural, como turistas, estudantes, trabalhadores e profissionais da mídia (para retratar melhor a linguística local em publicidades, novelas e etc) e claro, utilizando de sua localização como dialeto principal.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
