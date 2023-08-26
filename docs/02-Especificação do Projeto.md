@@ -15,7 +15,7 @@ Necessidades <ul><li>Previsões diárias, informações sobre temperatura, proba
 | <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-hemolife/blob/main/docs/img/b.png" width="100" title="Ana Almeida"> | <h2 align="right"><b>Ana Almeida</b></h2></br></br></br> <p align="left">Idade: 41 <br/> Descrição: A Ana é uma entusiasta de esportes ao ar livre e viagens. Ela está sempre em busca de informações precisas sobre o clima para planejar suas atividades, como trilhas, escaladas e acampamentos.<br/> |
 | --- | --- |
 | Características Principais <ul><li>Aventureira, aventureira, proativa, impaciente.</li></ul>
-Necessidades <ul><li> Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos imediatos.</li></ul> |
+Necessidades <ul><li> Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos.</li></ul> |
 
 
 > **Links Úteis**:
@@ -34,8 +34,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Rafael Jr. | Previsões diárias, informações sobre temperatura, probabilidade de chuva. | Para economizar tempo e estar sempre preparado para quaisquer condições climáticas. |
-|Ana Almeida| Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos imediatos. | Permitir que seja personalizado o modo de visualização, alertas de notificação diário e previsões claras para melhor organização do meu dia. |
+|Rafael Jr. | Previsões diárias | Para economizar tempo e estar sempre preparado para quaisquer condições climáticas. |
+|Rafael Jr. | Informações sobre temperatura. | Para uma melhor escolha da vestimenta para o dia em questão. |
+|Rafael Jr. | Probabilidade de chuva. | Para me resguardar com guarda-chuva ou capa de chuva em caso de possibilidade de chuva. |
+|Ana Almeida| Previsões detalhadas por hora. | Permitir que eu me programe sem muita preocupação os afazeres do dia-a-dia. |
+|Ana Almeida| Possibilidade de modo escuro ou claro. | Garantir conforto visual através do modo de visualização. |
+|Ana Almeida| Alertas climáticos. | Para caso haja esquecimento de abrir o app, me seja enviado um alerta sobre o clima do dia. |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
