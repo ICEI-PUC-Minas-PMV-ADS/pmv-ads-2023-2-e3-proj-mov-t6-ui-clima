@@ -90,8 +90,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Disponibilizar alternativas para escolher um dialeto particular de uma das regiões brasileiras na exibição de informações, alertas e notificações. | BAIXA | 
+|RF-002| Disponibilizar dados climáticos exatos, tais como previsões, níveis de umidade, temperaturas e velocidades dos ventos precisas.  | ALTA | 
+|RF-003| Assegurar que os dados relacionados ao clima sejam constantemente atualizados em tempo real.  | ALTA | 
+|RF-004| Fornecer previsões de médio e longo prazo, abrangendo um período de pelo menos uma semana. | MÉDIA |
+|RF-005| Emitir avisos e mensagens para os usuários sobre alterações climáticas marcantes, como chuvas intensas, tempestades, etc. | ALTA |
+|RF-006| Permitir que o usuário alterne entre o tema claro e escuro do aplicativo. | BAIXA |
+
 
 ### Requisitos não Funcionais
 
