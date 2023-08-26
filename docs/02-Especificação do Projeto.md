@@ -15,7 +15,7 @@ Necessidades <ul><li>Previsões diárias, informações sobre temperatura, proba
 | <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-hemolife/blob/main/docs/img/b.png" width="100" title="Ana Almeida"> | <h2 align="right"><b>Ana Almeida</b></h2></br></br></br> <p align="left">Idade: 41 <br/> Descrição: A Ana é uma entusiasta de esportes ao ar livre e viagens. Ela está sempre em busca de informações precisas sobre o clima para planejar suas atividades, como trilhas, escaladas e acampamentos.<br/> |
 | --- | --- |
 | Características Principais <ul><li>Aventureira, aventureira, proativa, impaciente.</li></ul>
-Necessidades <ul><li> Previsões detalhadas por hora, mapas de radar, alertas climáticos imediatos.</li></ul> |
+Necessidades <ul><li> Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos imediatos.</li></ul> |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
