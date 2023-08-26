@@ -8,8 +8,8 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 | <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-hemolife/blob/main/docs/img/a.png" width="100" title="Rafael Jr." align="left"> | <h2 align="right"><b>Rafael Jr.</b></h2></br></br></br> <p align="left">Idade: 27 <br/> Descrição: O Rafael é um profissional que se desloca diariamente para o trabalho. Ele precisa saber o clima para se vestir adequadamente e planejar o tempo de viagem.. <br/> Características Principais: Profissional, prático, precisa economizar tempo.</p> |
 | --- | --- |
-| Características Principais <ul><li>Profissional, prático, precisa economizar tempo.
-Necessidades: Previsões diárias, informações sobre temperatura, probabilidade de chuva.</li></ul> |
+| Características Principais <ul><li>Profissional, prático, precisa economizar tempo.</li></ul>
+Necessidades <ul><li>Previsões diárias, informações sobre temperatura, probabilidade de chuva.</li></ul> |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
