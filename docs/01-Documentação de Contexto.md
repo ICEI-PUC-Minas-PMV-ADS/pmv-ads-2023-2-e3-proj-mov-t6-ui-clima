@@ -31,8 +31,7 @@ A previsão do tempo é relevante para praticamente todas as pessoas, em qualque
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O aplicativo UI Clima é focado nos indivíduos de diferentes faias etárias que possuem o interesse em saber a previsão do tempo de diferentes lugares no mundo e também naqueles que buscam diversidade cultural, como turistas, estudantes de línguas, profissionais da mídia (para retratar melhor a linguística mineira em publicidades, novelas, etc) e, claro, para os próprios moradores de Minas Gerais.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
