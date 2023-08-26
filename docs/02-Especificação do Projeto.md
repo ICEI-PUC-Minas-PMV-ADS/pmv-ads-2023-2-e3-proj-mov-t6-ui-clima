@@ -34,8 +34,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Rafael Jr.  | Previsões diárias, informações sobre temperatura, probabilidade de chuva. | Para economizar tempo e estar sempre preparado para quaisquer condições climáticas. |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Rafael Jr. | Previsões diárias, informações sobre temperatura, probabilidade de chuva. | Para economizar tempo e estar sempre preparado para quaisquer condições climáticas. |
+|Ana Almeida| Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos imediatos. | Permitir que seja personalizado o modo de visualização, alertas de notificação diário e previsões detalhadas. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
