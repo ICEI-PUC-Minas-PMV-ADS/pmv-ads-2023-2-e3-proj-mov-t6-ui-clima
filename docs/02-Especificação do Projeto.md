@@ -17,7 +17,6 @@ Necessidades <ul><li>Previsões diárias, informações sobre temperatura, proba
 | Características Principais <ul><li>Aventureira, aventureira, proativa, impaciente.</li></ul>
 Necessidades <ul><li> Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos imediatos.</li></ul> |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -35,7 +34,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Rafael Jr.  | Previsões diárias, informações sobre temperatura, probabilidade de chuva. | Para economizar tempo e estar sempre preparado para quaisquer condições climáticas. |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
