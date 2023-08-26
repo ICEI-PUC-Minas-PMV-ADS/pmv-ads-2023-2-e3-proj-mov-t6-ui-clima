@@ -104,7 +104,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Apresentar tempos de carregamento eficientes e uma resposta rápida e fluída às ações dos usuários.| ALTA | 
 |RNF-002| Garantir a proteção dos dados dos usuários, incluindo informações como localização e preferências. |  ALTA | 
-|RNF-002| Apresentar uma interface de usuário intuitiva e de fácil navegação. |  ALTA | 
+|RNF-003| Apresentar uma interface de usuário intuitiva e de fácil navegação. |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
