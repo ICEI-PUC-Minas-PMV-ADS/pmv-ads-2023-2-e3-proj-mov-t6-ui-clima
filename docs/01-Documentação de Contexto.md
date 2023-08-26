@@ -1,13 +1,16 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Bem-vindos(as) ao aplicativo mais divertido da previsão meteorológica - uma revolução digital que traz precisão e acessibilidade às pontas dos seus dedos. Apresentamos nosso mais recente projeto: um aplicativo de previsão meteorológica que redefine a maneira como você se mantém informado sobre as condições climáticas. Enquanto as mudanças climáticas continuam a afetar nosso mundo de maneiras imprevisíveis, a necessidade de informações meteorológicas confiáveis e detalhadas nunca foi tão importante. Imagine poder planejar suas atividades diárias, viagens e até mesmo decisões críticas com base em previsões precisas, tudo isso graças a um aplicativo que combina tecnologia de ponta com dados meteorológicos atualizados em tempo real.
+
+Com uma interface intuitiva e amigável, nosso aplicativo oferece uma experiência envolvente, independente de sua afinidade com a meteorologia. Seja você um entusiasta do clima, um viajante frequente ou alguém que simplesmente deseja planejar seu dia com mais confiança, nosso aplicativo foi projetado pensando em suas necessidades específicas.
+
+Mas o que realmente nos diferencia é nossa abordagem baseada no dialeto do estado onde você habita. Nosso aplicativo não apenas fornece previsões precisas, mas também queremos que você sinta que tem um meteorologista pessoal sempre ao seu lado.
+
+Portanto, convidamos vocês a embarcarem nesta jornada conosco enquanto lançamos um aplicativo que não apenas informa, mas foi projetado para você. Estejam preparados para se surpreender com a precisão, a confiabilidade e a personalização que nosso aplicativo de previsão meteorológica traz para a sua vida. Junte-se a nós!
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Para criar um aplicativo de previsão meteorológica eficaz, é importante entender as necessidades e preocupações dos usuários. Um dos principais problemas que o aplicativo pode resolver é a incerteza ao planejar atividades ao ar livre ou uma viagem programada. Até mesmo no âmbito profissional as condições climáticas são totalmente importantes devido a diversos setores da indústria também podem se beneficiar ou não dependendo dos fatores climáticos. Dito isto, muitas pessoas se sentem frustradas quando seus planos são arruinados pelo clima imprevisível. Isso cria a necessidade de uma solução que forneça informações claras e oportunas sobre as condições climáticas, ajudando os usuários a planejar com mais confiança e claro, sem perder o toque de personalização que tem o poder de encantar e atrair vários outros usuários.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
