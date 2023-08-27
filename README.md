@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Íris Gabriela Queiroz Gonçalves
 * Luna Alcântara Reis Silva
 
-## Professor
+## Orientador
 
 * Udo Fritzke Jr.
 
