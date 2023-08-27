@@ -17,17 +17,6 @@ Necessidades <ul><li>Previsões diárias, informações sobre temperatura, proba
 | Características Principais <ul><li>Aventureira, aventureira, proativa, impaciente.</li></ul>
 Necessidades <ul><li> Previsões detalhadas por hora, possibilidade de modo escuro ou claro, alertas climáticos.</li></ul> |
 
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -40,16 +29,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Ana Almeida| Previsões detalhadas por hora. | Permitir que eu me programe sem muita preocupação os afazeres do dia-a-dia. |
 |Ana Almeida| Possibilidade de modo escuro ou claro. | Garantir conforto visual através do modo de visualização. |
 |Ana Almeida| Alertas climáticos. | Para caso haja esquecimento de abrir o app, me seja enviado um alerta sobre o clima do dia. |
-
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
@@ -84,42 +63,26 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. 
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Disponibilizar alternativas para escolher um dialeto particular de uma das regiões brasileiras na exibição de informações, alertas e notificações. | BAIXA | 
-|RF-002| Disponibilizar dados climáticos exatos, tais como previsões, níveis de umidade, temperaturas e velocidades dos ventos precisas.  | ALTA | 
-|RF-003| Assegurar que os dados relacionados ao clima sejam constantemente atualizados em tempo real.  | ALTA | 
-|RF-004| Fornecer previsões de médio e longo prazo, abrangendo um período de pelo menos uma semana. | MÉDIA |
-|RF-005| Emitir avisos e mensagens para os usuários sobre alterações climáticas marcantes, como chuvas intensas, tempestades, etc. | ALTA |
-|RF-006| Permitir que o usuário alterne entre o tema claro e escuro do aplicativo. | BAIXA |
-
+|RF-001| Permitir que o usuário selecione as cidades em que ele deseja visualizar as informações de tempo e receber notificações | Alta
+|RF-002| Permitir que o usuário visualize a previsão do tempo (temperatura, probabilidade de precipitação e níveis de umidade) do dia atual de acordo com a cidade selecionada pelo usuário | Alta
+|RF-003| Notificar o usuário sobre alterações climáticas marcantes, como chuvas intensas, tempestades, etc. | Alta
+|RF-004| Permitir que o usuário visualize a previsão do tempo (temperatura, probabilidade de precipitação e níveis de umidade) de cada dia da semana atual de acordo com a cidade selecionada pelo usuário | Média
+|RF-005| Permitir que o usuário selecione o dialeto particular de uma das regiões brasileiras para exibição de informações, alertas e notificações. | Baixa | 
+|RF-006| Permitir que o usuário selecione entre o tema claro e escuro do aplicativo. | Baixa |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Apresentar tempos de carregamento eficientes e uma resposta rápida e fluída às ações dos usuários.| ALTA | 
-|RNF-002| Garantir a proteção dos dados dos usuários, incluindo informações como localização e preferências. |  ALTA | 
-|RNF-003| Apresentar uma interface de usuário intuitiva e de fácil navegação. |  ALTA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| Assegurar que os dados relacionados ao clima estejam atualizados de acordo com as últimas previsões disponíveis.  | Alta | 
+|RNF-002| Apresentar tempos de carregamento eficientes e uma resposta rápida e fluída às ações dos usuários. | Alta | 
+|RNF-003| Apresentar uma interface de usuário intuitiva e de fácil navegação. | Alta | 
 
 ## Restrições
 
@@ -130,38 +93,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/19ff0c14-3d9a-4610-9dab-cddae254099a)
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/1e164f72-a483-45b1-9d6e-51594c587c3d)
 
 # Gerenciamento de Projeto
 
