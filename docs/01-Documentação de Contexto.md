@@ -12,11 +12,6 @@ Portanto, convidamos vocês a embarcarem nesta jornada conosco enquanto lançamo
 
 Para criar um aplicativo de previsão meteorológica eficaz, é importante entender as necessidades e preocupações dos usuários. Um dos principais problemas que o aplicativo pode resolver é a incerteza ao planejar atividades ao ar livre ou uma viagem programada. Até mesmo no âmbito profissional as condições climáticas são totalmente importantes devido a diversos setores da indústria também podem se beneficiar ou não dependendo dos fatores climáticos. Dito isto, muitas pessoas se sentem frustradas quando seus planos são arruinados pelo clima imprevisível. Isso cria a necessidade de uma solução que forneça informações claras e oportunas sobre as condições climáticas, ajudando os usuários a planejar com mais confiança e claro, sem perder o toque de personalização que tem o poder de encantar e atrair vários outros usuários.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Desenvolver um aplicativo de previsão do tempo confiável e de fácil utilização para fornecer informações meteorológicas precisas aos usuários.
@@ -32,11 +27,3 @@ A previsão do tempo é relevante para praticamente todas as pessoas, em qualque
 ## Público-Alvo
 
 O aplicativo UI Clima tem como público-alvo todos os tipos de pessoas e idades que tenham o interesse em se informarem sobre as condições climáticas de diferentes lugares do mundo e também aqueles que buscam diversidade cultural, como turistas, estudantes, trabalhadores e profissionais da mídia (para retratar melhor a linguística local em publicidades, novelas e etc) e claro, utilizando de sua localização como dialeto principal.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
