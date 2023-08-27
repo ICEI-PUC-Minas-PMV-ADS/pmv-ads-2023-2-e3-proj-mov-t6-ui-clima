@@ -14,9 +14,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Íris Gabriela Queiroz Gonçalves
 * Luna Alcântara Reis Silva
 
-## Udo Fritzke Jr.
+## Professor
 
-* Nome completo do professor 1
+* Udo Fritzke Jr.
 
 ## Instruções de utilização
 
