@@ -3,12 +3,17 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os atributos do projeto foram desenvolvidos a partir das plataformas GitHub e (a definir), e a relação dos ambientes está apresentada na tabela abaixo.
+
+| Ambiente | Plataforma | 
+--------- | ---------- |  
+| Repositório de código fonte | [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima) |
+| Documentos do projeto | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima) |
+| Projetos de Interface | [a definir]() |
+| Gerenciamento do Projeto | [Github](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/502)  |
+| Comunicação e Reuniões | [Teams](https://teams.microsoft.com/_), [WhatsApp](https://web.whatsapp.com/) |
 
 ## Controle de Versão
 
@@ -44,19 +49,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
-
 Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: ;
 - Product Owner: ;
 - Equipe de Desenvolvimento: Luna Alcantara Reis Silva;
 - Equipe de Design: Íris Gabriela Queiroz Gonçalves;
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
 
