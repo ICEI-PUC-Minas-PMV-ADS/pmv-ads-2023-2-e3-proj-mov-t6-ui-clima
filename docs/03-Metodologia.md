@@ -50,10 +50,12 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 Apresente a divisão de papéis entre os membros do grupo.
-- Scrum Master: ;
-- Product Owner: ;
-- Equipe de Desenvolvimento: Luna Alcantara Reis Silva;
-- Equipe de Design: Íris Gabriela Queiroz Gonçalves;
+- Scrum Master: a definir;
+- Product Owner: a definir;
+- Equipe de Design:
+  - Íris Gabriela Queiroz Gonçalves;
+- Equipe de Desenvolvimento:
+  - Luna Alcantara Reis Silva;
 
 ### Processo
 
