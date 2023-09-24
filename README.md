@@ -13,6 +13,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Gabriel Alisson dos Santos Oliveira
 * Íris Gabriela Queiroz Gonçalves
 * Luna Alcântara Reis Silva
+* Leonardo Rodrigues Barbosa Maia
+* André Paiva
 
 ## Orientador
 
