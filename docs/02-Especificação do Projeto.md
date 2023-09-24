@@ -48,11 +48,11 @@ Personalização Excessiva: Oferecer muitas opções de personalização pode co
 
 Variedade de Locais: Fornecer informações precisas para locais remotos ou pouco conhecidos pode ser um desafio, pois nem todos os lugares têm uma rede meteorológica robusta..
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Escolha do estado
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Processo ESCOLHA DE ESTADO, dado por um conjunto de ações feitas pelo usuário da aplicação para que seja retornado a ele o estado desejado. O usário consegue escolher o estado manualmente ou por meio de pesquisa do nome, caso o nome seja de um estado existente o usuário será capaz de selecioná-lo mais rapidamente ao invés de pesquisar por uma lista o estado desejado. Um ponto interessante de melhoria seria a capacidade de buscar o estado atual do usuário a partir do seu localizador móvel do seu smartphone.
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](img/processoum.png)
 
 ### Processo 2 – NOME DO PROCESSO
 
