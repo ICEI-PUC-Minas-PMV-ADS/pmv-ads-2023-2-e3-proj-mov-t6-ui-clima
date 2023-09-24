@@ -43,7 +43,8 @@ E como banco de dados relacional, utilizaremos o sqlite, por ser capaz de criar 
 
 ## Hospedagem
 
-O aplicativo será lançado em plataformas de aplicativos como google store, porém o armazenamento de dados e configurações do  usuário será todo local, no aparelho do mesmo.
+O aplicativo será lançado no Git Hub Pages,e também ficará em host. Além disso usaremos o EXPO por possuir um ecossistema para manutenção do app.
+Porém o armazenamento de dados e configurações do  usuário será todo local, no aparelho do mesmo.
 > **Links Úteis**:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
