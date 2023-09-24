@@ -5,11 +5,11 @@
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Com poucas telas, as interfaces foram projetadas de forma que , independente da faixa etária, os usuários utilizem todos os recursos que o app tem a oferecer, como visualizar as informações climáticas do local que pesquisar (ou sua localização atual), receber alertas de mudanças intensas do Clima e mudar o dialeto para que o APP seja diferente e divertido.
 
 ## Diagrama de Fluxo
 
-![Diagrama de Fluxo UI CLIMA](img/diagrama-de-fluxo-ui-clima.png)
+![Diagrama de Fluxo UI CLIMA](img/diagramafluxo.png)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
