@@ -25,7 +25,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/dfda054d-6409-4759-a05b-5e784b7394e4)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/34e7fd98-1b1f-49a1-a83e-426dbae0501f)
 
 - `main`: versão estável já testada do software
 - `develop`: versão em testes do software, instável
