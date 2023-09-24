@@ -52,7 +52,7 @@ Variedade de Locais: Fornecer informações precisas para locais remotos ou pouc
 
 Processo ESCOLHA DE ESTADO, dado por um conjunto de ações feitas pelo usuário da aplicação para que seja retornado a ele o estado desejado. O usário consegue escolher o estado manualmente ou por meio de pesquisa do nome, caso o nome seja de um estado existente o usuário será capaz de selecioná-lo mais rapidamente ao invés de pesquisar por uma lista o estado desejado. Um ponto interessante de melhoria seria a capacidade de buscar o estado atual do usuário a partir do seu localizador móvel do seu smartphone.
 
-![Processo 1](img/processoum.png)
+![Processo 1](img/primeiroprocesso.png)
 
 ### Processo 2 – NOME DO PROCESSO
 
