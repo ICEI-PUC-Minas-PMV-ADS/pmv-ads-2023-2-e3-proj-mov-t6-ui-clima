@@ -37,10 +37,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
 ## Tecnologias Utilizadas
+usaremos o  Ionic é uma plataforma e kit de ferramentas de desenvolvimento de aplicativos móveis multiplataforma que facilita a criação de experiências de aplicativos de alta qualidade com a ajuda de uma única base de código.
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Ele é construído em Angular e JavaScript e fornece aos desenvolvedores uma extensa biblioteca de elementos de interface do usuário pré-projetados e otimizados para dispositivos móveis, gestos e ferramentas que podem ser usados para compilar aplicativos altamente interativos.
+Utilizaremos Java, Javascript e kotlin como linguagens.
 
 ## Hospedagem
 
