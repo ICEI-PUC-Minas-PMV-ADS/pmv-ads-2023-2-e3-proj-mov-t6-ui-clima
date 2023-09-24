@@ -34,10 +34,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
 ## Tecnologias Utilizadas
-usaremos o  Ionic é uma plataforma e kit de ferramentas de desenvolvimento de aplicativos móveis multiplataforma que facilita a criação de experiências de aplicativos de alta qualidade com a ajuda de uma única base de código.
 
-Ele é construído em Angular e JavaScript e fornece aos desenvolvedores uma extensa biblioteca de elementos de interface do usuário pré-projetados e otimizados para dispositivos móveis, gestos e ferramentas que podem ser usados para compilar aplicativos altamente interativos.
-Utilizaremos Java, Javascript e kotlin como linguagens.
+Utilizaremos o React por ser uma biblioteca que utiliza a linguagem javascript como padrão para criação de interfaces de usuario.
+O javascript para criação do conteúdo.
+E como banco de dados relacional, utilizaremos o sqlite, por ser capaz de criar uma estrutura com um banco de dados embutido.
+
 
 ## Hospedagem
 
