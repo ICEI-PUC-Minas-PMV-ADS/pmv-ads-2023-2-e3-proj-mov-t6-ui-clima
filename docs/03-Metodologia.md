@@ -23,17 +23,20 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/dfda054d-6409-4759-a05b-5e784b7394e4)
+
 - `main`: versão estável já testada do software
-- `hml`: versão em testes do software, instável
+- `develop`: versão em testes do software, instável
 - `feature/feature-name`: versão do software em construção de uma nova funcionalidade
+- `bug/bug-name`: versão do software em construção, correção de uma funcionalidade
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+Ao iniciar o desenvolvimento de uma nova funcionalidade é criada uma nova branch `feature/feature-name` a partir da branch develop ao final do desenvolvimento deverá ser feito o merge com a branch 
+`develop`.
 
-- `docs`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+Os testes serão realizados sempre na branch `develop` após a realização dos testes e garantia que a nova funcionalidade está estável deverá ser feita um merge da branch `develop` com a branch `main`.
+
 
 ## Gerenciamento de Projeto
 
@@ -49,13 +52,21 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 A ferramenta Github Board será utilizada para gerência de tarefas 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/6e348fba-7eec-41aa-9f45-0baa70b290b4)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/143143872/3d07e983-4ad5-4e5d-bd9d-5d5bf01ea1fc)
 
 Backlog - Todas as tarefas a serem executadas no projeto (independente da etapa/sprint)
 Current Sprint - Todas as tarefas a serem executadas na etapa atual do projeto
 In Progress - tarefas em progresso
 Validation - funcionalidades em teste
 Done - tarefas finalizadas
+
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+
+- `documentation`: melhorias ou acréscimos à documentação
+- `bug`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
 
 ### Ferramentas
 
