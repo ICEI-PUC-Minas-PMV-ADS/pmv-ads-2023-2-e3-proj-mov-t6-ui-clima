@@ -9,11 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
-
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+![Diagrama de Fluxo UI CLIMA](img/diagrama-de-fluxo-ui-clima.png)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
@@ -26,6 +22,11 @@ Este Wireframe representa a tela inicial do aplicativo UI Clima, onde o usuário
 
 ![Wireframe da Homepage](img/home.png)
 
+Tela de pesquisa de local 
+
+![Wireframe da Tela de Pesquisa de Locais](img/local.png)
+
+
 Ao clicar no ícone de sino (notificações), o usuário poderá visualizar os alertas de clima para a região selecionada.
 
 ![Janela Modal de Notificações](img/notificacoes.png)
@@ -33,6 +34,16 @@ Ao clicar no ícone de sino (notificações), o usuário poderá visualizar os a
 Clicando ícone do canto superior esquerdo (menu), pode-se visualizar as opções de escolha de tema, do dialeto desejado e os termos e condições
 
 ![Menu Lateral](img/menu.png)
+
+Página de seleção de Tema e de Dialeto
+
+![Tela de Seleção de Tema](img/selecao-tema.png)
+
+![Tela de Seleção de Dialeto](img/selecao-dialeto.png)
+
+Fluxo de telas do aplicativo
+
+![Fluo do App](img/fluxo-de-tela.gif)
 
 
 
