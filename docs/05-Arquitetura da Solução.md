@@ -1,8 +1,9 @@
 # Arquitetura da Solução
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+A aplicação será feita com armazenamento local, deixando o aplicativo mais dinamico. Assim, terá informações para  fornecer a medição de clima de terceiros. 
+![APLICAÇÃO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/114547158/5085c393-bfdd-4a50-8995-98ca74356f41)
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ![Arquitetura da Solução](img/02-mob-arch.png)
 
