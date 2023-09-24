@@ -5,7 +5,7 @@ A aplicação será feita com armazenamento local, deixando o aplicativo mais di
 ![APLICAÇÃO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/assets/114547158/5085c393-bfdd-4a50-8995-98ca74356f41)
 
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+
 
 ## Diagrama de Classes
 
