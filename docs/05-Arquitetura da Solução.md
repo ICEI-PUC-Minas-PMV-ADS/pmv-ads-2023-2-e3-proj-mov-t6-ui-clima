@@ -44,8 +44,7 @@ Utilizaremos Java, Javascript e kotlin como linguagens.
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
+O aplicativo será lançado em plataformas de aplicativos como google store, porém o armazenamento de dados e configurações do  usuário será todo local, no aparelho do mesmo.
 > **Links Úteis**:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
