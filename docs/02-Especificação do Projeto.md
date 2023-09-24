@@ -54,11 +54,11 @@ Processo ESCOLHA DO ESTADO, dado por um conjunto de ações feitas pelo usuário
 
 ![Processo 1](img/primeiroprocesso.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Escolha do dialeto
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Processo ESCOLHA DO DIALETO, dado por um conjunto de ações feitas pelo usuário da aplicação para que seja retornado a ele o dialeto desejado. O usário consegue escolher o dialeto manualmente ou por meio de pesquisa do nome, caso o nome seja de um dialeto existente o usuário será capaz de selecioná-lo mais rapidamente ao invés de pesquisar por uma lista o dialeto desejado. Um ponto interessante de melhoria seria a capacidade de buscar o dialeto do usuário a partir do seu localizador móvel do seu smartphone.
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 2](img/segundoprocesso.png)
 
 ## Indicadores de Desempenho
 
