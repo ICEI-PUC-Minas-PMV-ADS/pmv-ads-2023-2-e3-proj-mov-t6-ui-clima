@@ -22,7 +22,19 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Este Wireframe representa a tela inicial do aplicativo UI Clima, onde o usuário pode selecionar o local que seja que irá exibir a temperatura atual, velocidade dos ventos, umidade, porcentagem de chance de precipitação, além da previsão dos próximos dias.
+
+![Wireframe da Homepage](img/home.png)
+
+Ao clicar no ícone de sino (notificações), o usuário poderá visualizar os alertas de clima para a região selecionada.
+
+![Janela Modal de Notificações](img/notificacoes.png)
+
+Clicando ícone do canto superior esquerdo (menu), pode-se visualizar as opções de escolha de tema, do dialeto desejado e os termos e condições
+
+![Menu Lateral](img/menu.png)
+
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
