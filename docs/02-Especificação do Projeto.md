@@ -34,11 +34,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Os usuários desejam obter informações meteorológicas específicas e personalizadas para planejar suas atividades diárias de forma mais eficiente, mas muitos aplicativos de clima oferecem apenas informações genéricas e não fornecem recomendações detalhadas com base no clima local e também não se comunica de forma mais "próxima" com o usuário, abordando as principais informações climáticas de acordo com o dialeto regional selecionado.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Limites e Desafios:
+
+Precisão Meteorológica: A precisão das previsões meteorológicas ainda é um desafio, especialmente a longo prazo. Embora possamos acessar dados em tempo real e previsões confiáveis, eventos climáticos imprevisíveis podem ocorrer.
+
+Integração de Dados: Garantir que os dados meteorológicos sejam consistentes e atualizados exige parcerias com fontes confiáveis. Manter essas integrações pode ser um desafio técnico e de negócios.
+
+Personalização Excessiva: Oferecer muitas opções de personalização pode complicar a interface do usuário e sobrecarregar os usuários com escolhas. Encontrar o equilíbrio certo é crucial.
+
+Variedade de Locais: Fornecer informações precisas para locais remotos ou pouco conhecidos pode ser um desafio, pois nem todos os lugares têm uma rede meteorológica robusta..
 
 ### Processo 1 – NOME DO PROCESSO
 
