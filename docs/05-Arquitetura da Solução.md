@@ -26,9 +26,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
+![]([https://github.com/seu-usuario/seu-repositorio/blob/main/nome-do-arquivo.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-ui-clima/blob/main/docs/img/esquemarelacionaltabela.png))
 
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
 
 ## Modelo Físico
 
