@@ -35,9 +35,9 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-Utilizaremos o React por ser uma biblioteca que utiliza a linguagem javascript como padrão para criação de interfaces de usuario.
-O javascript para criação do conteúdo.
-E como banco de dados relacional, utilizaremos o sqlite, por ser capaz de criar uma estrutura com um banco de dados embutido.
+Utilizaremos o React por ser uma biblioteca que utiliza a linguagem Javascript como padrão para criação de interfaces de usuario.
+O Javascript para criação do conteúdo.
+E como banco de dados relacional, utilizaremos o SQLite, por ser capaz de criar uma estrutura com um banco de dados embutido.
 
 
 ## Hospedagem
