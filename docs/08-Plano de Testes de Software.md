@@ -2,9 +2,55 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Teste de Precisão da Previsão:
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+Verifique se as previsões de temperatura, umidade, vento e precipitação estão de acordo com os dados reais de meteorologia.
+Teste a precisão das previsões de curto, médio e longo prazo.
+Avalie como o aplicativo lida com atualizações em tempo real das condições meteorológicas.
+
+- Teste de Interface do Usuário:
+
+Verifique se a interface do usuário é intuitiva e fácil de navegar.
+Teste a legibilidade de fontes, ícones e gráficos usados para representar as informações meteorológicas.
+Avalie a acessibilidade para usuários com deficiências visuais.
+
+- Teste de Geolocalização:
+
+Teste se o aplicativo é capaz de identificar corretamente a localização atual do usuário.
+Verifique se as informações de clima e previsão são precisas para a localização do usuário.
+Teste como o aplicativo lida com a mudança de localização ou a busca por outras cidades.
+
+- Teste de Notificações:
+
+Verifique se as notificações de alertas meteorológicos (por exemplo, alertas de tempestades) são entregues pontualmente.
+Teste a capacidade do aplicativo de fornecer notificações personalizadas com base nas preferências do usuário.
+
+- Teste de Desempenho:
+
+Avalie a velocidade de carregamento do aplicativo, especialmente ao buscar dados em tempo real.
+Teste como o aplicativo lida com situações de carga, como picos de tráfego durante eventos meteorológicos extremos.
+
+- Teste de Conexão com Servidores de Dados:
+
+Verifique a confiabilidade da conexão do aplicativo com os servidores de dados meteorológicos.
+Teste como o aplicativo se comporta em caso de falhas na conexão ou indisponibilidade dos servidores.
+
+- Teste de Personalização:
+
+Avalie a capacidade do aplicativo de permitir que os usuários personalizem suas configurações de clima (unidades de medida, unidades de temperatura, idioma, etc.).
+Teste a capacidade de salvar locais favoritos para acesso rápido.
+
+- Teste de Compatibilidade de Dispositivos:
+
+Certifique-se de que o aplicativo seja compatível com uma variedade de dispositivos, incluindo smartphones, tablets e diferentes sistemas operacionais (iOS, Android, etc.).
+Teste de Consumo de Recursos:
+
+Avalie o consumo de bateria e recursos do dispositivo enquanto o aplicativo estiver em execução em segundo plano.
+
+- Teste de Resposta a Feedback dos Usuários:
+
+Verifique se o aplicativo oferece uma maneira fácil para os usuários fornecerem feedback e relatarem problemas.
+Avalie como a equipe de desenvolvimento responde aos problemas e solicitações dos usuários.
  
 ## Ferramentas de Testes (Opcional)
 
