@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Teste de Precisão da Previsão:
+- Teste de Precisão da Previsão:
 
 Verifique se as previsões de temperatura, umidade, vento e precipitação estão de acordo com os dados reais de meteorologia.
 Teste a precisão das previsões de curto, médio e longo prazo.
