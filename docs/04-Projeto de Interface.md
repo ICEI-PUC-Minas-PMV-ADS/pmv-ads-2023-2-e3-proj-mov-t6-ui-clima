@@ -45,6 +45,8 @@ Fluxo de telas do aplicativo
 
 ![Fluo do App](img/fluxo-de-tela.gif)
 
+Link do Figma: https://www.figma.com/file/8wZ1umCXSNboPnVecRYumE/UI-CLIMA---WIREFRAMES?type=design&node-id=0%3A1&mode=design&t=6CM8XV5fiCJ2tZSV-1
+
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
